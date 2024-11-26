@@ -5,7 +5,7 @@ manifest:
     - name: badjeff
       url-base: https://github.com/badjeff
     - name: tokyo2006
-      url-base: https://github.com/tokyo2006
+      url-base: https://github.com/rain2813
   projects:
     - name: zmk
       remote: zmkfirmware
