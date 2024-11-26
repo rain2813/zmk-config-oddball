@@ -4,7 +4,7 @@ manifest:
       url-base: https://github.com/petejohanson
     - name: badjeff
       url-base: https://github.com/badjeff
-    - name: tokyo2006
+    - name: rain2813
       url-base: https://github.com/rain2813
   projects:
     - name: zmk
@@ -21,7 +21,7 @@ manifest:
       remote: badjeff
       revision: main
     - name: prospector-zmk-module
-      remote: tokyo2006
+      remote: rain2813
       revision: main
   self:
     path: config
